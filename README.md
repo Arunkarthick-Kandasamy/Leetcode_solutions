@@ -36,13 +36,13 @@ Solutions are organized into folders based on problem categories:
 - **Sorting & Searching**
 - **Mathematics**
 
-## How to Use
+## How-to-Use
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Arunkarthi123/leetcode-solutions.git
 `
-## Contributing
+## contributing
 If you'd like to contribute by adding new solutions or improving existing ones:
 
 Fork the repository.
@@ -51,7 +51,7 @@ Commit your changes.
 Create a pull request.
 Any contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License. You are free to use the code for personal learning purposes.
 ```vbnet
 
