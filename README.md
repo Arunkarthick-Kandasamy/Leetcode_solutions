@@ -63,3 +63,11 @@ This project is licensed under the MIT License. You are free to use the code for
 This `README.md` provides a professional and well-structured introduction to your repository while offering clarity on how to navigate and contribute to it.
 ```
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+<!---LeetCode Topics End-->
