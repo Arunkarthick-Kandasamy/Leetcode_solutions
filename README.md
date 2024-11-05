@@ -78,8 +78,13 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
