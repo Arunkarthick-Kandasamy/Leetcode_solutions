@@ -87,4 +87,16 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
+## Array
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
