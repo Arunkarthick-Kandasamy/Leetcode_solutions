@@ -69,6 +69,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## String
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Hash Table
 |  |
@@ -128,4 +129,8 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
