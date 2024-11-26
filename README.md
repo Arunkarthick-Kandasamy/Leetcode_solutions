@@ -142,4 +142,8 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
