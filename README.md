@@ -153,6 +153,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3189-find-champion-ii) |
@@ -167,4 +168,12 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
