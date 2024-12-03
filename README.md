@@ -194,6 +194,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
