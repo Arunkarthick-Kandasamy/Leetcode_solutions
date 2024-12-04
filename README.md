@@ -73,6 +73,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 | [1894-merge-strings-alternately](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Greedy
 |  |
 | ------- |
