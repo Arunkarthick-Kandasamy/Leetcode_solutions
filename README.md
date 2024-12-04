@@ -89,6 +89,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -197,6 +198,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0086-partition-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
