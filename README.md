@@ -83,6 +83,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 ## Two Pointers
@@ -91,6 +92,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1894-merge-strings-alternately) |
@@ -110,6 +112,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
