@@ -114,6 +114,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -132,6 +133,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
+| [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +184,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -207,4 +211,8 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
