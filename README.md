@@ -125,6 +125,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Stack
 |  |
@@ -143,6 +144,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
