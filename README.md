@@ -90,6 +90,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0086-partition-list) |
@@ -109,6 +110,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -162,6 +164,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
