@@ -132,6 +132,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
@@ -218,6 +219,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
@@ -243,6 +245,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
