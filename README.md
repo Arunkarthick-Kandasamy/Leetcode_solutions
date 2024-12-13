@@ -85,6 +85,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3194-find-words-containing-character](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
@@ -185,6 +187,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 ## Counting
@@ -226,6 +229,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 ## Shortest Path
@@ -253,6 +257,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
