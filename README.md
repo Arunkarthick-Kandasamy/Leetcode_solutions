@@ -117,6 +117,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
+| [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
+| [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -241,6 +243,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
