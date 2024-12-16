@@ -96,6 +96,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +253,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -278,6 +281,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
