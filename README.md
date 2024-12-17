@@ -75,6 +75,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
@@ -86,6 +87,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
@@ -119,6 +121,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +216,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
@@ -247,6 +251,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
