@@ -125,6 +125,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Array
@@ -141,6 +142,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
@@ -169,12 +171,14 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -215,6 +219,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
