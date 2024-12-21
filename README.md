@@ -69,6 +69,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -196,6 +198,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
