@@ -289,6 +289,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -359,6 +360,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
