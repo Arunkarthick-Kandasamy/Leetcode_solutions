@@ -91,6 +91,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -103,6 +104,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0069-sqrtx](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -144,6 +146,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -193,6 +196,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0069-sqrtx](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -226,6 +230,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -332,6 +337,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
