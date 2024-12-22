@@ -171,6 +171,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
@@ -183,12 +184,14 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +203,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
@@ -287,6 +291,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
@@ -385,4 +390,12 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
