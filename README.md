@@ -267,6 +267,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
@@ -385,6 +386,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -392,6 +394,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
