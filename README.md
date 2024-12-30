@@ -349,6 +349,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## String Matching
 |  |
 | ------- |
