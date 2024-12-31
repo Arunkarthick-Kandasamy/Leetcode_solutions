@@ -5,7 +5,11 @@ class Solution {
         {
             temp.add(index[i],nums[i]);
         }
-        return temp.stream().mapToInt(Integer::intValue).toArray();
-        
+        int[] result = new int[temp.size()];
+        for(int i = 0;i<result.length;i++)
+        {
+            result[i]=temp.get(i);
+        }        
+        return result;
     }
 }
