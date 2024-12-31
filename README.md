@@ -78,6 +78,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -176,6 +177,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1899-count-items-matching-a-rule](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2058-concatenation-of-array) |
