@@ -5,21 +5,12 @@ class Solution {
         int temp = nums[0];
         boolean flag=true;
         int[] result=new int[2*n];
-        for(int i=0;i<(2*n);i++)
+        for(int i=0;i<n;i++)
         {
-            result[i]=temp;
-            if(flag)
-            {
-                temp=nums[n+j];
-                j++;
-                flag=false;
-            }
-            else
-            {
-                temp=nums[k];
-                k++;
-                flag=true;
-            }
+            result[j]=nums[i];
+            result[k]=nums[i+n];
+            k+=2;
+            j+=2;
         }
         return result;
     }
