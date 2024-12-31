@@ -151,6 +151,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -296,6 +297,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -355,6 +357,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2058-concatenation-of-array) |
