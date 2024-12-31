@@ -88,6 +88,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
