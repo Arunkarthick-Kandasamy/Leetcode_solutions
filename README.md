@@ -165,6 +165,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -231,6 +232,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1603-running-sum-of-1d-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
