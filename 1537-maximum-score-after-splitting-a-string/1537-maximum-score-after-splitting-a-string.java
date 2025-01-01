@@ -1,7 +1,6 @@
 class Solution {
     public int maxScore(String s) {
         int result=0;
-        int count = 0;
         int left =0;
         int right = 0;
         for(int i = 0;i<s.length();i++)
@@ -21,10 +20,9 @@ class Solution {
             {
                 left--;
             }
-            count=left+right;
-            if(result<count)
+            if(result<left+right)
             {
-                result=count;
+                result=left+right;
             }
         }
         return result;
