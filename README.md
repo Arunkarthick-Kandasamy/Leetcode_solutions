@@ -171,6 +171,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -312,6 +313,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0566-reshape-the-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -374,6 +376,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0059-spiral-matrix-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2058-concatenation-of-array) |
