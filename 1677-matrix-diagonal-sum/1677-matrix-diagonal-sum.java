@@ -7,7 +7,6 @@ class Solution {
                 sum+=mat[i][i]+mat[i][n-i];
             else
                 sum+=mat[i][i];
-            System.out.println(sum);
         }
         return sum;
     }
