@@ -3,6 +3,7 @@ class Solution:
         result=gain[0]
         for i in range(1,len(gain)):
             gain[i]+=gain[i-1]
-            result=max(gain[i],result)
+            if result<gain[i]:
+                result=gain[i]
         return max(0,result)
         
