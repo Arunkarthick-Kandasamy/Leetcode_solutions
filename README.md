@@ -116,6 +116,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -177,6 +178,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
