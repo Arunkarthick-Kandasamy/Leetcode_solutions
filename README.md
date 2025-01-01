@@ -185,6 +185,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1580-shuffle-the-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
@@ -316,6 +317,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
