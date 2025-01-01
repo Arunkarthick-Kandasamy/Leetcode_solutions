@@ -21,9 +21,10 @@ class Solution {
             {
                 left--;
             }
-            if(result<left+right)
+            count=left+right;
+            if(result<count)
             {
-                result=left+right;
+                result=count;
             }
         }
         return result;
