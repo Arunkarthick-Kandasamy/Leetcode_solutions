@@ -82,6 +82,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1899-count-items-matching-a-rule](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
@@ -204,6 +205,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -263,6 +265,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
