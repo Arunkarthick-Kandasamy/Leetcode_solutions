@@ -169,6 +169,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -409,6 +410,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
