@@ -80,6 +80,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1899-count-items-matching-a-rule) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -102,6 +103,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1635-number-of-good-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -271,6 +273,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1833-find-the-highest-altitude) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
@@ -430,6 +433,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
