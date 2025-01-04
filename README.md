@@ -139,6 +139,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -176,6 +177,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0238-product-of-array-except-self](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -249,6 +251,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -431,6 +434,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
