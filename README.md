@@ -72,6 +72,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -117,6 +118,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0069-sqrtx](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
@@ -237,6 +239,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -519,6 +522,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
