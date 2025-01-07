@@ -158,6 +158,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -189,6 +190,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0283-move-zeroes](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
