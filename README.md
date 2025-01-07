@@ -76,6 +76,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -204,6 +205,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -442,6 +444,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
