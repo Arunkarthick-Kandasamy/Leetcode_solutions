@@ -4,7 +4,6 @@ class Solution {
         result=root;
         while(result!=null)
         {
-            System.out.println(result.val);
             if(result.val==val)
             {
                 return result;
