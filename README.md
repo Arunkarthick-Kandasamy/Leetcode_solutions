@@ -506,6 +506,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -516,12 +517,14 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
