@@ -76,6 +76,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0952-word-subsets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -104,6 +105,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -200,6 +202,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
