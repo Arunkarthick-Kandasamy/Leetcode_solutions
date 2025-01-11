@@ -4,7 +4,6 @@ class Solution {
         while(st<=end)
         {
             int mid=st+(end-st)/2;
-            System.out.println(nums[mid]);
             if(nums[mid]>target)
             {
                 end=mid-1;
