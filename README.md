@@ -203,6 +203,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -283,6 +284,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0287-find-the-duplicate-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0792-binary-search) |
 | [2164-two-best-non-overlapping-events](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
