@@ -1,5 +1,6 @@
-class Solution:
-    def compress(self, c: List[str]) -> int:
+class Solution(object):
+    def compress(self, c):
+        
         n = len(c)
         if n == 0: return 0
         w = 0
