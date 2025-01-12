@@ -70,6 +70,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
@@ -143,6 +144,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -450,6 +452,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
