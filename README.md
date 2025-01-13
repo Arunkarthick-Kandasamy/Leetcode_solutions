@@ -71,6 +71,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -274,6 +275,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
