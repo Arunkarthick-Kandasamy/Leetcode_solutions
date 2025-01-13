@@ -151,6 +151,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -174,6 +175,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -186,6 +188,7 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
