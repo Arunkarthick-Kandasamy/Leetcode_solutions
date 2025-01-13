@@ -100,6 +100,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [3194-find-words-containing-character](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +360,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
