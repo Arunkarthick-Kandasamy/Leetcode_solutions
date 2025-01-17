@@ -266,6 +266,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -509,6 +510,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2509-minimize-xor](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
