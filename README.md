@@ -135,6 +135,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0043-multiply-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
@@ -478,6 +479,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -589,6 +591,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
