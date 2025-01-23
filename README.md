@@ -512,6 +512,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
