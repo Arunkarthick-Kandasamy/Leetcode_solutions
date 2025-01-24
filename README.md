@@ -134,6 +134,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0066-plus-one) |
