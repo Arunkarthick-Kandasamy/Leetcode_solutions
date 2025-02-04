@@ -82,6 +82,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -290,6 +291,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
