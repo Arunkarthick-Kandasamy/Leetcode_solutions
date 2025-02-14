@@ -289,6 +289,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -529,6 +530,7 @@ This `README.md` provides a professional and well-structured introduction to you
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -625,4 +627,8 @@ This `README.md` provides a professional and well-structured introduction to you
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1558-course-schedule-iv) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
