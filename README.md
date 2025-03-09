@@ -283,6 +283,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [3226-minimum-number-game](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -335,6 +336,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [2868-continuous-subarrays](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3483-alternating-groups-ii](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
