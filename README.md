@@ -147,6 +147,7 @@ This `README.md` provides a professional and well-structured introduction to you
 | [0202-happy-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0492-construct-the-rectangle](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0492-construct-the-rectangle) |
 | [0670-maximum-swap](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunkarthi123/Leetcode_solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
